@@ -12,6 +12,6 @@ I stole the idea from someone, I don't have the repo link right know, but I will
 
 ## Categories
 
-### Python - general 
+### Python - general
 
 ### DevOps
